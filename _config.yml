@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Smriti Ganapathi"
-  avatar           : "headshot_github_website.png"
+  avatar           : "images/headshot_github_website.png"
   bio              : "PhD Student at UChicago"
   location         : "Chicago, IL"
   employer         :
