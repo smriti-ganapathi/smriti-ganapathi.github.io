@@ -18,6 +18,6 @@ Policy Writing
 ======
 
 * Oeindrila Dube, Smriti Ganapathi, Soeren J. Henn, and James A. Robinson. 2020. \
-  &ldquo;Farmer-Herder Conflict in Nigeria&rsquo;s Middle Belt:Evidence from 288 Communities.&rdquo; \
+  &ldquo;Farmer-Herder Conflict in Nigeria&rsquo;s Middle Belt: Evidence from 288 Communities.&rdquo; \
   <i> Policy Report. </i>
 
