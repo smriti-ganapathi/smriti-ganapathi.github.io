@@ -13,3 +13,5 @@ Hello! I am a second-year PhD student in Public Policy at the University of Chic
 Some of the questions that motivate my research are: How can we improve the police and judicial responses to sexual offences? How can we optimize the allocation of police resources to prevent recidivism? How can we design early childhood interventions for boys to reduce their future involvement in GBV? I am eager to explore these topics in different contexts. 
 
 In addition to my own research, I have extensive work experience in academia as well as international organisations. I have worked on various experimental and quasi-experimental studies on how cultural norms contribute to gender equity and violent crime. I have also been involved in field experiments on women’s health, overseeing data collection and intervention implementation.
+
+If you'd like to chat or collaborate, please feel free to reach out to me at sganapathi@uchicago.edu!
