@@ -6,11 +6,6 @@ author_profile: true
 ---
 
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
 Work in progress
@@ -26,6 +21,3 @@ Policy Writing
   &ldquo;Farmer-Herder Conflict in Nigeria&rsquo;s Middle Belt:Evidence from 288 Communities.&rdquo; \
   <i> Policy Report. </i>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
