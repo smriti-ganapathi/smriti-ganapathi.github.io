@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year PhD student in Public Policy at the University of Chicago. My research focuses on gender-based violence (GBV) and child abuse, and how these are influenced by individual, social and institutional factors. I want to understand the causes and consequences of GBV, the norms that enable it, and the policies that can prevent it. 
+Hello! I am a fourth-year PhD student in Public Policy at the University of Chicago. My research focuses on gender-based violence (GBV) and child abuse, and how these are influenced by individual, social and institutional factors. I want to understand the causes and consequences of GBV, the norms that enable it, and the policies that can prevent it. 
 
 Some of the questions that motivate my research are: How can we improve the police and judicial responses to sexual offences? How can we optimize the allocation of police resources to prevent recidivism? How can we design early childhood interventions for boys to reduce their future involvement in GBV? I am eager to explore these topics in different contexts. 
 
