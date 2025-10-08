@@ -16,6 +16,7 @@ Policing is frequently posited to be an effective tool to deter perpetrators of 
 
 * <strong> The Impact of Specialized Courts on Sexual Offences in South Africa </strong> \
   <i> (with Daniela Horta Saenz) <i>
+Sexual violence is pervasive and challenging to prosecute. As a policy response, specialized courts have been increasingly implemented to accelerate criminal justice while minimizing re-victimization. Yet, causal evidence on their effectiveness remains limited. This paper studies the staggered introduction of specialized courts for sexual offenses (SOCs) in South Africa and their impact on crime and criminal justice outcomes. Using a two-way fixed effects design, we find that SOCs reduce reported rates of sexual offenses by 13%, an effect driven by the most severe cases, such as rape and attempted rape. We provide suggestive evidence that these reductions are stronger in districts with “pure” courts--those that exclusively handle sexual offense cases and fully adhere to the trauma-informed blueprint--as well as in districts with pre-existing specialized clinics for sexual offenses. The stability of reports in less severe forms of abuse indicates that these declines are unlikely to be explained by reduced reporting. However, we do not find evidence of short-run changes in prosecution or conviction rates, or changes in victims propensity to report. Our results suggest that while specialized courts can serve as a powerful deterrent, they may not improve access to justice in the short-run.
 
 Policy Writing
 ======
