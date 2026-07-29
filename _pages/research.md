@@ -14,7 +14,7 @@ Work in progress
 * <strong> Policing Intimate Partner Violence: Curbing Abuse or Shifting it? </strong> 
 
 * <strong> The Impact of Specialized Courts on Sexual Offences in South Africa </strong> 
-  <i> (with Daniela Horta Saenz) </i> \
+  <i> (with Daniela Horta Saenz) </i> 
 
 * <strong> The Impact of Social Movements on Rape Rhetoric: Evidence from India </strong> 
 
