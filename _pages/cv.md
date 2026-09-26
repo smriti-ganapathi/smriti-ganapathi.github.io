@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-<embed src="{{ site.baseurl }}/files/CV_SmritiGanapathi_public_website.pdf" width="100%" height="700px" type="application/pdf">
+<embed src="{{ site.baseurl }}/files/CV_SmritiGanapathi.pdf" width="100%" height="700px" type="application/pdf">
