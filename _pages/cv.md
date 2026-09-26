@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Download my CV [here](https://smriti-ganapathi.github.io/files/CV_SmritiGanapathi_public_website.pdf)
+
+<embed src="{{ site.baseurl }}/files/CV_SmritiGanapathi_public_website.pdf" width="100%" height="700px" type="application/pdf">

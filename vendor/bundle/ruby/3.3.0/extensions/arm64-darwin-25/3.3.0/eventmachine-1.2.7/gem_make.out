@@ -1,0 +1,19 @@
+current directory: /Users/smriti/Documents/GitHub/smriti-ganapathi.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/smriti/.rbenv/versions/3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/smriti/Documents/GitHub/smriti-ganapathi.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260925-90957-f85acb sitelibdir\=./.gem.20260925-90957-f85acb clean
+
+current directory: /Users/smriti/Documents/GitHub/smriti-ganapathi.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260925-90957-f85acb sitelibdir\=./.gem.20260925-90957-f85acb
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/smriti/Documents/GitHub/smriti-ganapathi.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260925-90957-f85acb sitelibdir\=./.gem.20260925-90957-f85acb install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20260925-90957-f85acb
+
+current directory: /Users/smriti/Documents/GitHub/smriti-ganapathi.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260925-90957-f85acb sitelibdir\=./.gem.20260925-90957-f85acb clean
