@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /research/
 author_profile: false
-classes: wide
+layout: splash
 ---
 
 
