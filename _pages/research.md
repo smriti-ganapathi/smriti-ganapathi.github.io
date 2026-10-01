@@ -12,8 +12,8 @@ layout: splash
 Work in progress
 ======
 
-* <strong> The Impact of Specialized Courts on Sexual Offences in South Africa </strong> 
-  <i> (with Daniela Horta Saenz) </i> 
+* <strong> The Impact of Specialized Courts on Sexual Offences in South Africa </strong><br> 
+  <i> (with Daniela Horta Saenz & Mazeeda Karani) </i> 
 
   <details>
     <summary><i>Click to expand</i></summary>
