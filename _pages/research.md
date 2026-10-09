@@ -36,6 +36,10 @@ author_profile: false
 li {
   margin-bottom: 1.5em;
 }
+h1 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
 </style>
 
 # <span style="color:navy">Work in progress</span>
