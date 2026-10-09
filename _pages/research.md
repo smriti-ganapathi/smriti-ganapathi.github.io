@@ -9,7 +9,7 @@ layout: splash
 
 {% include base_path %}
 
-Work in progress
+<span style="color:navy">Work in progress</span>
 ======
 
 * <strong> The Impact of Specialized Courts on Sexual Offences in South Africa </strong><br> 
@@ -36,7 +36,10 @@ Work in progress
 
 * <strong> What is Truly Cultural? The Impact of Historical Information on Social Norms </strong> 
 
-Policy Writing
+
+
+
+<span style="color:navy">Policy Writing</span>
 ======
 
 * Oeindrila Dube, Smriti Ganapathi, Soeren J. Henn, and James A. Robinson. 2020. \
