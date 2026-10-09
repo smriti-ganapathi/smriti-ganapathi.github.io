@@ -18,7 +18,7 @@ Work in progress
   <details>
     <summary><i>Click to expand</i></summary>
 
-  Sexual violence is a major human rights violation and public health concern, but the drivers of perpetration remain poorly understood. This paper examines how perpetration rates respond to increases in perceived enforcement as well as the salience of harm to victims. We leverage the staggered rollout of specialized sexual offenses courts (SOCs) in South Africa -- a policy innovation that aims to be survivor-centric while prioritizing the resolution of sex offenses. We find that SOCs reduce sexual offenses by 10-29\%. These results are not explained by increased enforcement alone; effects are concentrated in areas with a higher density of civil society organizations providing victim support, while improvements in enforcement appear geographically uniform. We also observe lower tolerance for intimate partner violence in areas with longer exposure to SOCs, suggestive of a broader change in gender norms. Proxies for the nature of the violence, based on latent class analysis of data from specialized clinics, suggest that acquaintance rapes are most responsive to these changes, while violent offenses by strangers remain unchanged, as do offenses against children. Our results suggest that survivor support can amplify the preventive effects of enforcement by changing social understandings of harm to victims, while also highlighting heterogeneity in perpetration patterns.
+  Sexual violence is a major human rights violation and public health concern, but the drivers of perpetration remain poorly understood. This paper examines how perpetration rates respond to increases in perceived enforcement as well as the salience of harm to victims. We leverage the staggered rollout of specialized sexual offenses courts (SOCs) in South Africa -- a policy innovation that aims to be survivor-centric while prioritizing the resolution of sex offenses. We find that SOCs reduce sexual offenses by 10\%. These results are not explained by increased enforcement alone; effects are concentrated in areas with a higher density of civil society organizations providing victim support, while improvements in enforcement appear geographically uniform. We also observe lower tolerance for intimate partner violence in areas with longer exposure to SOCs, suggestive of a broader change in gender norms. Proxies for the nature of the violence, based on latent class analysis of data from specialized clinics, suggest that acquaintance rapes are most responsive to these changes, while violent offenses by strangers remain unchanged, as do offenses against children. Our results suggest that survivor support can amplify the preventive effects of enforcement by changing social understandings of harm to victims, while also highlighting heterogeneity in perpetration patterns.
 
   </details>
 
@@ -33,6 +33,8 @@ Work in progress
   </details>
 
 * <strong> The Impact of Social Movements on Rape Rhetoric: Evidence from India </strong> 
+
+* <strong> What is Truly Cultural? The Impact of Historical Information on Social Norms </strong> 
 
 Policy Writing
 ======
