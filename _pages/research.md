@@ -57,9 +57,23 @@ author_profile: false
 
 </details>
 
-* <strong>The Impact of Social Movements on Rape Rhetoric: Evidence from India</strong>
+<details>
+  <summary>
+    <span class="paper">
+      <strong>The Impact of Social Movements on Rape Rhetoric: Evidence from India</strong>
+    </span>
+  </summary>
 
-* <strong>What is Truly Cultural? The Impact of Historical Information on Social Norms</strong>
+</details>
+
+<details>
+  <summary>
+    <span class="paper">
+      <strong>What is Truly Cultural? The Impact of Historical Information on Social Norms</strong>
+    </span>
+  </summary>
+
+</details>
 
 
 # <span style="color:navy">Policy Writing</span>
