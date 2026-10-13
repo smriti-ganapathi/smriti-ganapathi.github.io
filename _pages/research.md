@@ -85,6 +85,16 @@ h1 {
 
 </details>
 
+<details>
+  <summary>
+    <span class="paper">
+      <strong>Navigating Predictable Triggers: A Scalable Digital Intervention for Intimate Partner Violence</strong><br>
+      <i>(with Daniela Horta Saenz)</i>
+    </span>
+  </summary>
+
+</details>
+
 
 # <span style="color:navy">Policy Writing</span>
 
